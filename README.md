@@ -49,17 +49,17 @@ cd KrezmeinPhisher
 ./KrezmeinPhisher.exe
 ```
 
-##🛠 Additional Features
+## 🛠 Additional Features
 The app asks whether you want a short URL for the phishing awareness simulation.
 You can opt for automatic public IP fetching.
 
-##📂 Logged Information
+## 📂 Logged Information
 Username & Password (entered by the user)
 Client's Public IP Address
 Platform Used for Simulation
 Additional Data (location, currency, time zone, ZIP code, latitude, longitude, etc.)
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 This project is intended strictly for educational and cybersecurity awareness purposes. Do not use this tool for malicious activities. Always obtain permission before simulating phishing pages.
 
 
