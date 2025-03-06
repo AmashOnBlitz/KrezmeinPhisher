@@ -44,7 +44,7 @@ KrezmeinPhisher is currently available for **Windows**. To get started:
 
 ### 📥 Clone the Repository  
 ```sh
-git clone https://github.com/your-username/KrezmeinPhisher.git
+git clone https://github.com/AmashOnBlitz/KrezmeinPhisher.git
 cd KrezmeinPhisher
 ```
 ### ▶️ Run the Application
