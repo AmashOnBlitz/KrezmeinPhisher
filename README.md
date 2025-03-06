@@ -1,6 +1,6 @@
 # KrezmeinPhisher
 KrezmeinPhisher (SUPPORT WINDOWS)is a phishing awareness tool designed to help users understand how phishing attacks work by simulating various login pages. The app provides a selection of commonly targeted platforms and logs the submitted credentials for educational and cybersecurity training purposes.  
-
+![C++](https://img.shields.io/badge/Language-C++-blue.svg)
 ## ⚡ Features  
 - Simulates phishing pages for multiple platforms.  
 - Option to generate short URLs for redirection.  
