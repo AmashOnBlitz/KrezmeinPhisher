@@ -1,0 +1,48 @@
+Fetched At sites/stackoverflow/login.html
+
+Username: lo@hello.hello | Password: hello@#$@ | IP adress of client: 119.42.57.119
+
+{
+    "calling_code": "+91",
+    "city": "New Delhi",
+    "connection_type": "",
+    "continent_code": "AS",
+    "continent_name": "Asia",
+    "country_capital": "New Delhi",
+    "country_code2": "IN",
+    "country_code3": "IND",
+    "country_emoji": "🇮🇳",
+    "country_flag": "https://ipgeolocation.io/static/flags/in_64.png",
+    "country_name": "India",
+    "country_name_official": "Republic of India",
+    "country_tld": ".in",
+    "currency": {
+        "code": "INR",
+        "name": "Indian Rupee",
+        "symbol": "₹"
+    },
+    "district": "New Delhi",
+    "geoname_id": "9957599",
+    "ip": "119.42.57.119",
+    "is_eu": false,
+    "isp": "anonet.in",
+    "languages": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
+    "latitude": "28.61394",
+    "longitude": "77.20902",
+    "organization": "Ani Network Pvt Ltd",
+    "state_code": "",
+    "state_prov": "NCT",
+    "time_zone": {
+        "current_time": "2025-03-06 14:47:58.634+0530",
+        "current_time_unix": 1741252678.634,
+        "dst_end": "",
+        "dst_exists": false,
+        "dst_savings": 0,
+        "dst_start": "",
+        "is_dst": false,
+        "name": "Asia/Kolkata",
+        "offset": 5.5,
+        "offset_with_dst": 5.5
+    },
+    "zipcode": "110011"
+}
